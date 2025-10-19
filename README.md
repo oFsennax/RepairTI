@@ -1,12 +1,12 @@
 # RepairTI
-🧰 MENU DE SUPORTE TÉCNICO T.I – Fsennax
+🧰 MENU DE SUPORTE TÉCNICO T.I – Fsennax<br>
 
-⚙️ Sobre o Projeto
+⚙️ Sobre o Projeto<br>
 Esta ferramenta foi desenvolvida por Fsennax para automatizar rotinas de manutenção e suporte técnico em sistemas Windows.
 O script fornece um menu interativo no prompt de comando (CMD) que reúne em um só lugar as principais ferramentas de diagnóstico, limpeza e reparo do sistema operacional.
 
-#🚀 Funcionalidades Principais
-O menu inclui diversas opções úteis para técnicos e administradores de sistemas, como:
+#🚀 Funcionalidades Principais<br>
+O menu inclui diversas opções úteis para técnicos e administradores de sistemas, como:<br>
 
 | Nº | Função                                      | Descrição                                                |
 | -- | ------------------------------------------- | -------------------------------------------------------- |
@@ -34,7 +34,7 @@ O menu inclui diversas opções úteis para técnicos e administradores de siste
 | 22 | **Abrir Ferramentas do Sistema**            | Abre o Painel de Controle.                               |
 | 23 | **Sair**                                    | Fecha o programa.                                        |
 
-💻 Como Usar
+💻 Como Usar<br>
 1- Baixe o arquivo menu_suporte_TI.bat (ou o nome que você preferir).
 
 2- Execute como Administrador (clique com o botão direito > “Executar como administrador”).
@@ -43,14 +43,14 @@ O menu inclui diversas opções úteis para técnicos e administradores de siste
 
 ⚠️ Algumas opções exigem permissões elevadas (Administrador), especialmente as que modificam configurações do sistema.
 
-🧩 Requisitos
+🧩 Requisitos<br>
 Sistema Operacional: Windows 10 ou superior
 
 Permissões: Administrador
 
 Ferramentas nativas: CMD, PowerShell, CHKDSK, SFC, DISM, Winget
 
-🛠️ Estrutura do Código
+🛠️ Estrutura do Código<br>
 O script é baseado em Batch Script (.bat) e utiliza comandos internos do Windows, além de chamadas do PowerShell e utilitários como:
 
 chkdsk, sfc, dism, defrag, ping, tracert, ipconfig, netsh, mdsched, pnputil
